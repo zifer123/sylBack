@@ -3,6 +3,7 @@ var path = require('path');
 var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
+var session = require('express-session');
 var bodyParser = require('body-parser');
 var ejs = require('ejs');
 var cors = require('cors');
@@ -19,13 +20,24 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
+app.use(session({
+  secret: '12345',
+  name: 'sylBack',
+  cookie: {
+    maxAge: 80000
+  },
+  resave: false,
+  saveUninitialized: true
+}));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors());
 
 var users = require('./routes/users');
 var address = require('./routes/address');
+var language = require('./routes/language');
 app.use('/api/users', users);
 app.use('/api/address', address);
+app.use('/api/language',language);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
