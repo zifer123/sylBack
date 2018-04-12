@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(session({
-  secret: '12345',
+  secret: 'test',
   name: 'sylBack',
   cookie: {
     maxAge: 80000
@@ -29,12 +29,50 @@ app.use(session({
   resave: false,
   saveUninitialized: true
 }));
-app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors());
+app.use(express.static(path.join(__dirname, 'public')));
+
 
 var users = require('./routes/users');
 var address = require('./routes/address');
 var language = require('./routes/language');
+var unzip = require('unzip');
+
+var extract = unzip.Extract({
+    path: __dirname + '/public/test'
+});
+var fs = require('fs');
+
+extract.on('error', function(err) {
+
+      console.log("error++++++++++++++++++++++");
+
+      console.log(err);
+
+//解压异常处理
+
+});
+
+extract.on('finish', function() {
+    console.log('解压完成，准备读取文件');
+    fs.readdir(__dirname + '/public/test',function(err,files) {
+        console.log(files);
+    })
+});
+var request = require('request');
+var a = request('http://yyssb.ifitmix.com/1016/5d25106e87e448a0908a83295e413e7b.zip').pipe(fs.createWriteStream(__dirname + '/public/test.zip'));
+a.on('finish',function() {
+    console.log('下载完成，准备解压');
+    fs.createReadStream(__dirname + '/public/test.zip').pipe(extract);
+});
+
+
+app.use(function(req,res,next) {
+  if(!req.session.locale) {
+    req.session.locale = 'zh';
+  }
+  next();
+});
 app.use('/api/users', users);
 app.use('/api/address', address);
 app.use('/api/language',language);

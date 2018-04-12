@@ -7,29 +7,31 @@ var router = express.Router();
 /* GET users listing. */
 router.get('/', function(req, res, next) {
     /* 查询数据 */
+    //req.session.abcd = '22222';
     res.json({
-        locale: req.session.locale || 'zh',
+        locale: req.session.locale,
         status: 1,
         msg: 'ok',
     })
 });
 
-router.put('/setEn', function(req, res, next) {
+router.put('/', function(req, res, next) {
     /* 查询数据 */
-    req.session.locale = 'en';
-    res.json({
-        status: 1,
-        msg: 'ok'
-    });
+    req.session.locale = req.body.locale;
+    if(req.session.locale) {
+        console.log('设置成功');
+        res.json({
+            status: 1,
+            msg: 'ok'
+        });
+    }else {
+        res.json({
+            status: 0,
+            msg: '设置失败'
+        });
+    }
+
 });
 
-router.put('/setZh', function(req, res, next) {
-    /* 查询数据 */
-    req.session.locale = 'zh';
-    res.json({
-        status: 1,
-        msg: 'ok'
-    });
-});
 
 module.exports = router;
