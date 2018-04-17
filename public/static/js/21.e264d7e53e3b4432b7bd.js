@@ -1,2 +1,0 @@
-webpackJsonp([21],{339:function(n,e,t){var r=t(120)(null,t(606),null,null,null);n.exports=r.exports},606:function(n,e){n.exports={render:function(){var n=this,e=n.$createElement;return(n._self._c||e)("div",[n._v("\n  微信API设置\n")])},staticRenderFns:[]}}});
-//# sourceMappingURL=21.e264d7e53e3b4432b7bd.js.map

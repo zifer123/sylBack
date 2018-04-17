@@ -2,10 +2,150 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="670c4cc7-c2b4-49b2-ba66-f664c6302d1d" name="默认的" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/audio/fail.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/audio/repeat.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/audio/success.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/index.32dca41aad2cff3c6c459fa391b6fcf2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/index.32dca41aad2cff3c6c459fa391b6fcf2.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/login.26480bbe72b7f8abffaca9e812d688e1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/login.26480bbe72b7f8abffaca9e812d688e1.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/test.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/fonts/element-icons.6f0a763.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/img/bg2.f203040.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/img/iconfont.a9b4cff.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/jquery-1.4.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/0.fc059662e202db4082ac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/0.fc059662e202db4082ac.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/1.cdfb767fdbf5e02272ef.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/1.cdfb767fdbf5e02272ef.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/10.c344524d758f3b76e240.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/10.c344524d758f3b76e240.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/11.756b8bf61797a94342e7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/11.756b8bf61797a94342e7.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/12.b4c2c15a371ae6e0a27b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/12.b4c2c15a371ae6e0a27b.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/13.7a699114336704448ece.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/13.7a699114336704448ece.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/14.f4f68e6ddd29a0100224.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/14.f4f68e6ddd29a0100224.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/15.e168a745a8968e852397.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/15.e168a745a8968e852397.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/16.73748e399b55fdecaa88.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/16.73748e399b55fdecaa88.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/17.d28f6c33dcd44128f91b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/17.d28f6c33dcd44128f91b.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/18.8c320ba237a10657f5e1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/18.8c320ba237a10657f5e1.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/19.a40640bf1824b43534e4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/19.a40640bf1824b43534e4.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/2.3fce57659fd26b042721.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/2.3fce57659fd26b042721.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/20.a01663856182af8f6b60.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/20.a01663856182af8f6b60.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/21.e264d7e53e3b4432b7bd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/21.e264d7e53e3b4432b7bd.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/22.a24455010c169b006416.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/22.a24455010c169b006416.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/23.2085551795cc84d444e8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/23.2085551795cc84d444e8.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/24.6dc17d25d26e36da7daa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/24.6dc17d25d26e36da7daa.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/25.94d79df88353dbf656a3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/25.94d79df88353dbf656a3.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/26.5d91f6fca7153e266fc1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/26.5d91f6fca7153e266fc1.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/27.dbc80001cb453400976b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/27.dbc80001cb453400976b.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/28.ceb680c1b3e8a09720bd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/28.ceb680c1b3e8a09720bd.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/29.d6ac00623e31843a5035.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/29.d6ac00623e31843a5035.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/3.97db9752e61d0ca15613.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/3.97db9752e61d0ca15613.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/30.66019f6b540014e1b361.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/30.66019f6b540014e1b361.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/31.8d5ab89facedcfd5528f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/31.8d5ab89facedcfd5528f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/32.b1029879b73b8b1c463d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/32.b1029879b73b8b1c463d.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/33.fedbd12afd05510f3860.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/33.fedbd12afd05510f3860.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/34.a24f587ae78954cf682f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/34.a24f587ae78954cf682f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/35.0842f2db643cdf2f81f5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/35.0842f2db643cdf2f81f5.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/36.d9a68ed9e7d03e6718f7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/36.d9a68ed9e7d03e6718f7.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/37.01acfedc6ec565b511b9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/37.01acfedc6ec565b511b9.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/38.72f2e528662969cda669.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/38.72f2e528662969cda669.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/39.fd898523ef03f3fac524.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/39.fd898523ef03f3fac524.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/4.53ae067b71be36774b75.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/4.53ae067b71be36774b75.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/40.bc0d4747242d46d97bae.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/40.bc0d4747242d46d97bae.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/41.8cf46359d8dfb80347bf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/41.8cf46359d8dfb80347bf.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/42.9dc2d7e0c38a6ab0f810.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/42.9dc2d7e0c38a6ab0f810.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/43.9f3e343df09246d3d683.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/43.9f3e343df09246d3d683.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/44.fc5ab196a1694abc1021.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/44.fc5ab196a1694abc1021.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/45.e66cbae6eea8a0de4322.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/45.e66cbae6eea8a0de4322.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/46.1624c0e57443768213d3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/46.1624c0e57443768213d3.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/47.8db97a6d855d8b4c8c2e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/47.8db97a6d855d8b4c8c2e.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/48.24b5469614d5d8e79350.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/48.24b5469614d5d8e79350.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/49.246d87280b67190a21ed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/49.246d87280b67190a21ed.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/5.dd1c3f6d6dc3e9ed1715.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/5.dd1c3f6d6dc3e9ed1715.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/50.0699217bda91be3a9dbf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/50.0699217bda91be3a9dbf.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/51.8d900309258438a9e3eb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/51.8d900309258438a9e3eb.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/6.22654572b8528906be47.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/6.22654572b8528906be47.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/7.1cf93e0a8aa5ab6952a8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/7.1cf93e0a8aa5ab6952a8.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/8.d5f8fddbc2864c3631d1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/8.d5f8fddbc2864c3631d1.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/9.31634404d3c42b74b622.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/9.31634404d3c42b74b622.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/index.45909ab173328069d7e0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/index.45909ab173328069d7e0.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/jquery-print/jqPrint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/login.12f24e5b2c81617e176e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/login.12f24e5b2c81617e176e.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/manifest.169898d12c787299c640.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/manifest.169898d12c787299c640.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/tableExport/tableExport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/vendor.b943d41840e1368d856c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/vendor.b943d41840e1368d856c.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test/3901312_1523260988000.altitudeChart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test/3901312_1523260988000.hrChart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test/3901312_1523260988000.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test/3901312_1523260988000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test/3901312_1523260988000.pressure" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test/3901312_1523260988000.pressureChart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test/3901312_1523260988000.speedChart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test/3901312_1523260988000.step" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test/3901312_1523260988000.temperature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/test/3901312_1523260988000.temperatureChart" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/language.js" afterPath="$PROJECT_DIR$/routes/language.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/login.html" afterPath="$PROJECT_DIR$/public/login.html" />
     </list>
     <ignored path="sylBack.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +169,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.0">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state vertical-scroll-proportion="-14.25">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -39,21 +179,9 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.696">
-              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.1306533">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="language.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/language.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#37#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -82,8 +210,8 @@
         <option value="$PROJECT_DIR$/public/test/b.json" />
         <option value="$PROJECT_DIR$/public/aaa.json" />
         <option value="$PROJECT_DIR$/public/test.json" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -93,8 +221,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-2" />
+    <option name="y" value="1" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -177,24 +305,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sylBack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sylBack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -204,7 +314,13 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lxdBack" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zipFileParse" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zifer-work\sylBack\public" />
+      <recent name="D:\zifer-work\sylBack\public\static" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -270,7 +386,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-2" y="1" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25237092" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -278,6 +394,7 @@
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33441558" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29220778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -286,7 +403,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33513513" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -315,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -323,7 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="310" column="43" selection-start-line="310" selection-start-column="43" selection-end-line="310" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -338,7 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -346,7 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -354,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -392,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -400,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="310" column="43" selection-start-line="310" selection-start-column="43" selection-end-line="310" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -415,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -431,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -469,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="310" column="43" selection-start-line="310" selection-start-column="43" selection-end-line="310" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -492,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -515,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -530,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -582,7 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -590,7 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="310" column="43" selection-start-line="310" selection-start-column="43" selection-end-line="310" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -614,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -622,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,23 +730,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/test/3901312_1523260988000.temperature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5616">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/test/3901312_1523260988000.step">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2592">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/test/3901312_1523260988000.pressure">
+    <entry file="file://$PROJECT_DIR$/public/static/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -660,31 +738,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/test/3901312_1523260988000.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/test/3901312_1523260988000.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/test/3901312_1523260988000.hrChart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.432">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/test/3901312_1523260988000.altitudeChart">
+    <entry file="file://$PROJECT_DIR$/public/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -694,16 +748,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.0">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state vertical-scroll-proportion="-14.25">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.696">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.1306533">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding />
         </state>
       </provider>
